@@ -1,0 +1,12 @@
+body{
+    padding: 20px;
+}
+
+#map{
+    height: 580px;
+}
+
+a{
+    text-decoration: none;
+    color: #7CC352;
+}

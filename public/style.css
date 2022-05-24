@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    padding: 100px;
+}
+
+#btn{
+    background-color: #7CC352;
+    color: white;
+}
